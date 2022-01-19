@@ -27,6 +27,7 @@ const Header = () => {
                     <img src={ themeSwitcherIcon } alt="" />
                 </div>
             </div>
+            <div className="loginButton">GET IN</div>
         </div>
     );
 };

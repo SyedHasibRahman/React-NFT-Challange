@@ -53,3 +53,14 @@ margin: 10px;
     align-items: center;
     object-fit: contain;
 }
+
+.themeSwitcher >img{
+    height: 25px;
+}
+.loginButton{
+    background: linear-gradient(to right, #59f9b7, #66feea);
+    padding: 15px 40px;
+    border-radius: 50px;
+    color: #000;
+    font-weight: bold;
+}
